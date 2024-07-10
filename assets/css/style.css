@@ -19,9 +19,9 @@
     height:35rem;
     width: 45rem;
     margin-right: 27rem;
-    background-color: rgb(38, 53, 31);
-    border:3px solid black;
-    /* border-radius: 5%; */
+    /* background-image: linear-gradient(to bottom right,rgb(17, 17, 73),black); */
+    /* background-color: rgb(38, 53, 31); */
+    border:2px solid black;
     display: grid;
     grid-template-rows: repeat(20,1fr);
     grid-template-columns: repeat(20,1fr);
